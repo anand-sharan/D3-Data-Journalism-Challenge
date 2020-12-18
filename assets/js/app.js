@@ -34,6 +34,7 @@ function makeResponsive() {
       .attr("width", '100%')
       .attr("height", '100%')
       .attr('viewBox','0 0 ' + Math.max(width, height) + ' ' + Math.max(width, height));
+      //'0 0 960 480'
       //.attr('preserveAspectRatio','xMinYMin');
   
     // Append Group Element & Set Margins - Shift (Translate) by Left and Top Margins Using Transform

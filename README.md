@@ -62,24 +62,23 @@ While the ticks on the axes allow us to infer approximate values for each circle
 
 - - -
 
-### Assessment
 
-Your final product will be assessed on the following metrics:
+## Some of the observble trends are:
 
-* Creation of a **new** repository on GitHub called `D3-Challenge` (note the kebab-case). Do not add to an already existing repo.
+* The Healthcare-Poverty plot suggests that the state poverty rate plays an influential role in people's ability to obtain better healthcare coverage.
 
-* Completion of all steps in the core assignment
 
-* Coherency of scatter plot (labels, ticks)
+![healthcare](Images/healthcare-poverty.png)
 
-* Visual attraction
 
-* Professionalism
+* The visible trend indicates that the poorer states have higher obesity rates and greater tendencies of smoking. Wealthier states not only have higher rates of healthcare coverage, but lower obesity and smoking rates as well.
 
-* Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
+![obesity](Images/obesity_rate.png)
 
-**Good luck!**
+![smoking](Images/smoke.png)
 
-### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+* The median age values in most US states are clustered between 30-45 years old. A close look at the plots with median age at the x-axis indicates some correlations such as: higher median age and higher healthcare coverage, lower median age and lower smoking rates, and finally, lower median age and lower obesity rates.
+
+![smoking](Images/age.png)
+
